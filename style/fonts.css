@@ -1,0 +1,14 @@
+@font-face {
+    font-family:"RM" ;
+    src: url(../FONTS/Rubik-Medium.ttf);
+}
+
+@font-face {
+    font-family:"RR";
+    src: url(../FONTS/Rubik-Regular.ttf);
+}
+
+@font-face {
+    font-family:"IS";
+    src: url(../FONTS/Inter-SemiBold.ttf);
+}
